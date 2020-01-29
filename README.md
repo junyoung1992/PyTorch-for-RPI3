@@ -5,7 +5,7 @@ There are two installation methods.
 
 ## Load Image
 *Recommended*
-1. Download [Docker Image](https://drive.google.com/file/d/1Rju6DxUJTxcobyC6_SPSj_bZ3yxl5vGA/view?usp=sharing).
+1. Download [Docker Image](https://drive.google.com/file/d/1Kw_ubveQrezLVjoh5tOlGmjSGUae2fKs/view?usp=sharing).
 2. Load Image
 ```
 docker load -i rpi3_debian_pytorch.tar
