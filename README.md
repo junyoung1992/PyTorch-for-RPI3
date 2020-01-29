@@ -9,6 +9,7 @@ There are two installation methods.
 1. Load Image
 ```
 docker load -i rpi3_debian_pytorch.tar
+docker run -it rpi3_debian_pytorch
 ```
 
 ## Use DockerFile
@@ -17,4 +18,5 @@ docker load -i rpi3_debian_pytorch.tar
 1. Build DockerFile.
 ```
 docker build ./DockerFile
+docker run -it rpi3_debian_pytorch
 ```
