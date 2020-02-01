@@ -4,7 +4,7 @@ PyTorch, Torchvision, and Scikit-learn are installed in this docker image.
 There are two installation methods.
 
 ## Load Image
-*Recommended*
+*I recommend it.*
 1. Download [Docker Image](https://drive.google.com/file/d/1Kw_ubveQrezLVjoh5tOlGmjSGUae2fKs/view?usp=sharing).
 2. Load Image
 ```
@@ -16,7 +16,7 @@ docker run -it rpi3_debian_pytorch
 ```
 
 ## Use DockerFile
-*It takes a long time.*
+*It takes a long time, so I don't recommend it.*
 1. Download DockerFile.
 2. Build DockerFile
 ```
